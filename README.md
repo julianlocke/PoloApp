@@ -20,6 +20,7 @@ Needed before pushing to App Store:
 * DONE-Remove testflight
 * delete friends
 * integrate iAd
+* Add "friend already added" alert
 
 New features:
 * Organize friends in list - alphabetize?
@@ -30,3 +31,4 @@ New features:
 * Update friend list with contact nicknames/names if phone number is supplied and in contacts
 * Make adding friends faster
 * Custom colors -- change icon too
+* Customize nav bar
